@@ -50,6 +50,7 @@ maybe...
 - [x] Gimmik: Make main group folding
 - [ ] Style table
 - [ ] Add sorting
+- [ ] Advanced: Split logs in UI, add assignee, jump 2 source file on click
 - [ ] Link resources per task like file.md oder folder, viewer adds a link
 
 
