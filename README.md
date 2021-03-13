@@ -11,7 +11,7 @@ Task are saved in code, you see the context, and you can generate a backlog. 2 f
 
 ### Sample
 
-Place tasks.yml files anywhere within your /src. You could also make sub dir for some resources.
+Place multiple tasks.yml files anywhere within your /src. You could also make sub dir for some resources.
 
 ```yaml
 - tag:  Backlog|RELEASE  # Backlog is fix, RELEASE = "0.1" ...
@@ -51,7 +51,7 @@ maybe...
 - [ ] Style table, add sorting
 - [ ] Advanced: Split logs in UI (add nav), add assignee, jump 2 source file on click
 - [ ] Link tasks from tasks (speaking), resources per task like file.md oder folder, viewer adds a link
-- [ ] (Very advanced: Conversations save externally, tags and rename groups)
+- [ ] (Very advanced: Conversations user some .code-tasks folder, tags and rename groups)
 
 
 ## License
