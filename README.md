@@ -45,10 +45,12 @@ Just use `// TAG: UNIQUE-NAME` in multiple places, then full text search.
 
 maybe...
 
-- Change order of CAN and TAG as soon as we known how we can use MUST|SHOULD|CAN in VSC
+- [ ] Change order of CAN and TAG as soon as we known how we can use MUST|SHOULD|CAN in VSC
   - => search for `// TASK: CAN` or `// TASK: (MUST|SHOULD|CAN) [B/...`
-- Gimmik: Make main group folding
-- Link resources per task like file.md oder folder, viewer adds a link
+- [x] Gimmik: Make main group folding
+- [ ] Style table
+- [x] Add sorting
+- [ ] Link resources per task like file.md oder folder, viewer adds a link
 
 
 ## License
