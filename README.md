@@ -2,7 +2,7 @@
 
 **Your code is your backlog**
 
-Task are saved in code, you see the context, and you can generate a backlog. 2 for one with a low code tool. It has more structure than in an IDE, where everything is grouped just by file.
+Task are saved in code, you see the context, and you can generate a backlog. 2 for 1 with a low code tool. It has more structure than in an IDE, where everything is grouped just by file.
 
 - Copy under some /tools folder in project
 - `composer install`
