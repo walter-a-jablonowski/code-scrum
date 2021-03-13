@@ -49,9 +49,9 @@ maybe...
   - => search for `// TASK: CAN` or `// TASK: (MUST|SHOULD|CAN) [B/...`
 - [x] Gimmik: Make main group folding
 - [ ] Style table, add sorting
-- [ ] We could use sub tasks in yml and merge with code tasks
-- [ ] Second base fld beside /src in case soeone want yml seperately
+- [ ] Second base fld beside /src in case someone wants yml seperately
 - [ ] Advanced: Split logs in UI (add nav), add assignee, jump 2 source file on click
+- [ ] We could use sub tasks in yml and merge with code tasks
 - [ ] Link tasks from tasks (speaking), resources per task like file.md oder folder, viewer adds a link
 - [ ] (Very advanced: Conversations use some .code-tasks folder, tags and rename groups)
 
