@@ -48,10 +48,10 @@ maybe...
 - [ ] Change order of CAN and TAG as soon as we known how we can use MUST|SHOULD|CAN in VSC
   - => search for `// TASK: CAN` or `// TASK: (MUST|SHOULD|CAN) [B/...`
 - [x] Gimmik: Make main group folding
-- [ ] Style table
-- [ ] Add sorting
+- [ ] Style table, add sorting
 - [ ] Advanced: Split logs in UI (add nav), add assignee, jump 2 source file on click
-- [ ] Link resources per task like file.md oder folder, viewer adds a link
+- [ ] Link tasks from tasks (speaking), resources per task like file.md oder folder, viewer adds a link
+- [ ] (Very advanced: Conversations save externally, tags and rename groups)
 
 
 ## License
