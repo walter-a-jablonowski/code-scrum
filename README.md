@@ -49,7 +49,7 @@ maybe...
   - => search for `// TASK: CAN` or `// TASK: (MUST|SHOULD|CAN) [B/...`
 - [x] Gimmik: Make main group folding
 - [ ] Style table
-- [x] Add sorting
+- [ ] Add sorting
 - [ ] Link resources per task like file.md oder folder, viewer adds a link
 
 
