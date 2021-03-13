@@ -1,0 +1,19 @@
+body {
+  font-family: sans-serif;
+}
+a {
+  text-decoration: none;
+}
+table, td {
+  border: 1px solid #bbb;
+}
+tbody {
+  /* display: block; */
+}
+.log-header {
+  background-color: #ddd;
+}
+.main-task {
+  font-weigth: bold;
+  background-color: #f9a602;
+}

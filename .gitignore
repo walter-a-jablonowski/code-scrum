@@ -1,0 +1,7 @@
+desktop.ini
+_running/
+mngm/
+vendor/
+composer.lock
+cache.json
+debug.php

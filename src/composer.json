@@ -1,0 +1,25 @@
+{
+  "name": "walter-a-jablonowski/code-scrum",
+  "description": "Your code is your backlog",
+  "type": "project",
+  "keywords": ["scrum"],
+  "homepage": "https://github.com/walter-a-jablonowski/code-scrum",
+  "license": "MIT (modified)",
+  "authors": [
+    {
+      "name": "Walter A. Jablonowski",
+      "email": "walter.a.jablonowski@gmail.com",
+      "homepage": "https://walter-a-jablonowski.github.io",
+      "role": "Developer"
+    }
+  ],
+
+  "prefer-stable": true,
+  "minimum-stability": "dev",
+
+  "require": {
+    "php": ">=7.1.9",
+    "symfony/yaml": "4.3.3",
+    "walter-a-jablonowski/php-lib": "dev-master"
+  }
+}
