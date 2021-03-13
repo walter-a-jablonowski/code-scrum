@@ -45,13 +45,14 @@ Just use `// TAG: UNIQUE-NAME` in multiple places, then full text search.
 
 maybe...
 
-- [ ] Change order of CAN and TAG as soon as we known how we can use MUST|SHOULD|CAN in VSC
+- [ ] Change order of CAN and TAG as soon as we know how we can use MUST|SHOULD|CAN in VSC
   - => search for `// TASK: CAN` or `// TASK: (MUST|SHOULD|CAN) [B/...`
 - [x] Gimmik: Make main group folding
 - [ ] Style table, add sorting
+- [ ] We could use sub tasks in yml and merge with code tasks
 - [ ] Advanced: Split logs in UI (add nav), add assignee, jump 2 source file on click
 - [ ] Link tasks from tasks (speaking), resources per task like file.md oder folder, viewer adds a link
-- [ ] (Very advanced: Conversations user some .code-tasks folder, tags and rename groups)
+- [ ] (Very advanced: Conversations use some .code-tasks folder, tags and rename groups)
 
 
 ## License
